@@ -1,0 +1,38 @@
+[
+  {
+  "name": "Chicken Alfredo",
+  "price": 12.99,
+  "description": "Grilled chicken breast with fettuccine pasta in creamy Alfredo sauce.",
+  "imgUrl" : "https://images.unsplash.com/photo-1645112411341-6c4fd023714a?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Grilled Salmon",
+    "price": 15.99,
+    "description": "Fresh salmon fillet grilled to perfection, served with a side of vegetables.",
+    "imgUrl": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Spring Rolls",
+    "price": 5.99,
+    "description": "Crispy rolls filled with vegetables and served with a dipping sauce.",
+    "imgUrl": "https://images.unsplash.com/photo-1606525437679-037aca74a3e9?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Bruschetta",
+    "price": 7.99,
+    "description": "Toasted bread topped with diced tomatoes, garlic, and basil.",
+    "imgUrl": "https://images.unsplash.com/photo-1572695157366-5e585ab2b69f?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Chocolate Cake",
+    "price": 6.99,
+    "description": "Decadent chocolate cake with layers of rich chocolate ganache.",
+    "imgUrl": "https://images.unsplash.com/photo-1606890737304-57a1ca8a5b62?q=80&w=1403&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Cheesecake",
+    "price": 8.99,
+    "description": "Creamy New York-style cheesecake with a graham cracker crust.",
+    "imgUrl": "https://images.unsplash.com/photo-1543508185-225c92847541?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  }
+]

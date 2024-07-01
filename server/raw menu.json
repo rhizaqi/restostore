@@ -1,0 +1,52 @@
+{
+    "menu": {
+      "categories": [
+        {
+          "name": "Appetizers",
+          "items": [
+            {
+              "name": "Spring Rolls",
+              "price": 5.99,
+              "description": "Crispy rolls filled with vegetables and served with a dipping sauce."
+            },
+            {
+              "name": "Bruschetta",
+              "price": 7.99,
+              "description": "Toasted bread topped with diced tomatoes, garlic, and basil."
+            }
+          ]
+        },
+        {
+          "name": "Main Courses",
+          "items": [
+            {
+              "name": "Chicken Alfredo",
+              "price": 12.99,
+              "description": "Grilled chicken breast with fettuccine pasta in creamy Alfredo sauce."
+            },
+            {
+              "name": "Grilled Salmon",
+              "price": 15.99,
+              "description": "Fresh salmon fillet grilled to perfection, served with a side of vegetables."
+            }
+          ]
+        },
+        {
+          "name": "Desserts",
+          "items": [
+            {
+              "name": "Chocolate Cake",
+              "price": 6.99,
+              "description": "Decadent chocolate cake with layers of rich chocolate ganache."
+            },
+            {
+              "name": "Cheesecake",
+              "price": 8.99,
+              "description": "Creamy New York-style cheesecake with a graham cracker crust."
+            }
+          ]
+        }
+      ]
+    }
+  }
+  
